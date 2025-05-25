@@ -49,6 +49,13 @@
     "allowOffline": true
   },
   {
+    "id": "dfa81ae60cf10669",
+    "username": "animg",
+    "password": "kritiko",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "4eba75a26378cd63",
     "username": "drew",
     "password": "kupal",
