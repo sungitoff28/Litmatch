@@ -70,6 +70,13 @@
     "allowOffline": true
   },
   {
+    "id": "16d9ac53c41b75d0",
+    "username": "kaizer",
+    "password": "forbidden",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "1eef59730f3fd2fa",
     "username": "caine",
     "password": "kupal",
